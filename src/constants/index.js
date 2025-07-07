@@ -103,7 +103,7 @@ export const experiences = [
     company_name: "RocketPOS",
     icon: rocketpos,
     iconBg: "#161329",
-    date: "Apr 2024 - Present",
+    date: "Aug 2024 - Present",
     points: [
       "My role here is pretty much the same as before. The main change here is that this is a Product-based company and being one of the initial hiring of this company, my job here is to manage the Frontend team and to redesign the company’s Dashboard and Super admin Panel",
     ],

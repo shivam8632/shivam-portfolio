@@ -21,6 +21,7 @@ import {
   codenomad,
   expinator,
   rocketpos,
+  ryutech,
   bestpractice,
   brainly,
   cheveux,
@@ -73,7 +74,7 @@ export const experiences = [
     company_name: "The Knowledge Academy",
     icon: tka,
     iconBg: "#161329",
-    date: "Apr 2020 - Apr 2021",
+    date: "7 Apr 2020 - 28 Apr 2021",
     points: [
       "At this company, I turned XD designs into HTML, styled with CSS and LESS. I used JavaScript and JQuery to add interactive features and worked closely with the backend team for smooth integration",
     ],
@@ -83,29 +84,39 @@ export const experiences = [
     company_name: "Codenomad",
     icon: codenomad,
     iconBg: "#161329",
-    date: "May 2021 - Auy 2023",
+    date: "24 May 2021 - 30 Aug 2023",
     points: [
       "I started as a Web designer here, working in CSS and then in Shopify but laterbecame a Frontend Developer specializing in React.js, turning mockups into HTML and building React components. I also integrated backend APIs to keep everything running smoothly",
     ],
   },
   {
     title: "Frontend Developer",
-    company_name: "Expinator Technologies",
+    company_name: "Expinator",
     icon: expinator,
     iconBg: "#161329",
-    date: "Sep 2023 - Apr 2024",
+    date: "11 Sep 2023 - 5 Apr 2024",
     points: [
       "As the Team Leader for the Web Design Department, I handle client communications, keep them updated on project progress, and assign tasks to team members based on client needs. I also work as a Frontend Developer, focusing on building and improving websites using React and Next.js",
     ],
   },
   {
     title: "Frontend Developer",
-    company_name: "RocketPOS",
+    company_name: "RocketPos",
     icon: rocketpos,
     iconBg: "#161329",
-    date: "Aug 2024 - Present",
+    date: "1 Aug 2024 - 8 Jul 2025",
     points: [
       "My role here is pretty much the same as before. The main change here is that this is a Product-based company and being one of the initial hiring of this company, my job here is to manage the Frontend team and to redesign the company’s Dashboard and Super admin Panel",
+    ],
+  },
+  {
+    title: "Team Lead / Frontend Developer",
+    company_name: "Ryutech",
+    icon: ryutech,
+    iconBg: "#161329",
+    date: "11 Jul 2025 - Present",
+    points: [
+      "Lead the frontend team, coordinating development work and building user-facing features.",
     ],
   },
 ];

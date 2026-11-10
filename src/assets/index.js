@@ -6,6 +6,7 @@ import tka from "./company/tka.jpg";
 import codenomad from "./company/codenomad.png";
 import expinator from "./company/expinator.png";
 import rocketpos from "./company/rocketpos.png";
+import ryutech from "./company/ryutech.png";
 
 // Import tech stack images
 import python from "./tech-stack/python.png";
@@ -83,6 +84,7 @@ export {
   codenomad,
   expinator,
   rocketpos,
+  ryutech,
   bestpractice,
   brainly,
   cheveux,
